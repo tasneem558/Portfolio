@@ -33,3 +33,24 @@ SQL Databases
 
 Python Fundamentals
    * Familiar with fundamental concepts of Python programming.
+
+# Tools
+
+Trello and Notion
+   * know how to use kaban boards and track projectsprogress.
+
+Mind maps & diagrams
+   * Know how to design simple mind maps.
+    
+Azure
+   * Knowledgeable in using Azure for cloud services and deployment.
+
+# Courses
+
+   * Tarek Roushdy Online Course: Comprehensive training in software testing principles and practices.
+   * DEPI: Specialized training in software engineering and development practices, enhancing skills in various programming methodologies.
+   * Apps Square: Practical experience in testing mobile and web applications.
+
+# Examplea of my work
+   * [Elmenus Bugs Project](https://trello.com/invite/b/66b3ae094054877a8b6bd37c/ATTI48b7274354a877fa72d40b095ef640c758F8728A/elmenus-bugs): A detailed Trello board showcasing identified bugs and testing processes for the Elmenus application.
+   * [Sree3 Project](https://trello.com/invite/b/66be29bc20f9cd1673c28230/ATTI5856c66d236c6ca5382293e8bc448393349EE0DA/sree3): A Trello board documenting the testing and feedback processes for the Sree3 application.
