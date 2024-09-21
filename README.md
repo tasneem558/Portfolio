@@ -14,23 +14,22 @@ You can download my CV as a PDF [file here](https://drive.google.com/file/d/1Npj
 # Skills
 
 Manual Testing
-
-Proficient in conducting manual functional and usability testing of web applications.
+   * Proficient in conducting manual functional and usability testing of web applications.
+   
 Test Analysis and Design
-
-Skilled in test analysis and design, enabling the development of effective testing strategies.
+   * Skilled in test analysis and design, enabling the development of effective testing strategies.
+          
 API Testing
-
-Experienced in testing APIs to ensure functionality and performance.
+   * Experienced in testing APIs to ensure functionality and performance.
+     
 Exploratory Testing
-
-Capable of conducting exploratory testing to identify unexpected issues and improve user experience.
+   * Capable of conducting exploratory testing to identify unexpected issues and improve user experience.
+     
 Test Documentation
+   * Proficient in creating and maintaining comprehensive test documentation.
 
-Proficient in creating and maintaining comprehensive test documentation.
 SQL Databases
+   * Knowledgeable in SQL databases for data retrieval and management.
 
-Knowledgeable in SQL databases for data retrieval and management.
 Python Fundamentals
-
-Familiar with fundamental concepts of Python programming.
+   * Familiar with fundamental concepts of Python programming.
