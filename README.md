@@ -8,9 +8,9 @@ I am Tasneem Mahmoud Rizk, a committed Software Tester and Computer Engineering 
 As a positive thinker, I bring a unique blend of strengths to my work, including strong organizational skills and meticulous attention to detail. My effective communication and collaboration abilities have been honed through my volunteer efforts with the GDSC Tanta team, while my creative problem-solving skills enable me to navigate challenges effectively. I am also driven by an entrepreneurial spirit, currently working on launching my own brand, Allure, which focuses on bags and slippers.
 
 I am passionate about continuous learning and am eager to further develop my skills in automation testing. Through my portfolio, I aim to showcase my projects and demonstrate my dedication to delivering high-quality software solutions. I welcome you to explore my work and connect for potential collaborations or discussions.
-#CV
+# CV
 
 You can download my CV as a PDF file here for a comprehensive overview of my skills and experience.
-#Skills
+# Skills
 
 
