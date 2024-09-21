@@ -1,6 +1,11 @@
 # My Software Testing Portfolio
 
-This is a portfolio of a junior software tester
+   * [About me]
+   * [CV]
+   * [Skills]
+   * [Tools]
+   * [Courses]
+   * [Example of my works]
 # About me
 
 I am Tasneem Mahmoud Rizk, a committed Software Tester and Computer Engineering student at Tanta University, focusing on both manual and automated testing to uphold software quality and reliability. Currently, I am an intern at EFG Holding, where I am gaining valuable hands-on experience in testing financial systems and have learned to utilize Azure for cloud deployment and integration. My time at Apps Square has also enhanced my skills in testing mobile and web applications, and I utilize Trello for effective project management and organization.
