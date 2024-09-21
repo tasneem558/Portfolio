@@ -1,7 +1,7 @@
 # My Software Testing Portfolio
 
    * [About me](https://github.com/tasneem558/Portfolio/blob/main/README.md#about-me)
-   * [CV]
+   * [CV](https://github.com/tasneem558/Portfolio/blob/main/README.md#cv)
    * [Skills]
    * [Tools]
    * [Courses]
