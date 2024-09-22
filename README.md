@@ -42,7 +42,7 @@ Python Fundamentals
 # Tools
 
 Trello and Notion
-   * know how to use kaban boards and track projectsprogress.
+   * know how to use kanban boards and track projectsprogress.
 
 Mind maps & diagrams
    * Know how to design simple mind maps.
